@@ -43,3 +43,5 @@ Content Image A followed by respective style images on left corner of images B, 
 # References
 * [1] https://arxiv.org/pdf/1508.06576.pdf
 * [2] https://www.tensorflow.org/tutorials/generative/style_transfer
+* [3] https://www.tensorflow.org/api_docs/python/tf/GradientTape
+* [4] https://aihub.cloud.google.com/u/0/p/products%2Fd422cfe8-669a-4cc0-8695-46138988b718
